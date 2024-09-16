@@ -1,8 +1,7 @@
-# project2
+# project-2a
+# Social Medis Post Design:
+
 Design a series of social media posts that reflect the aesthetic of a modern fashion brand. The posts should include:
-
-Post 1: Social Media Post Design:
-
 A creative, minimalist design with a focus on typography. The text 'Social Media Post Design' should be in a bold, stylized font, with an image of a person engaging with the environment in a natural setting. The background should have a monochrome, muted tone to keep the focus on the text and the overall message.
 Post 2: Fashion Sale Announcement:
 
