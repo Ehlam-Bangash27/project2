@@ -3,7 +3,6 @@
 
 Design a series of social media posts that reflect the aesthetic of a modern fashion brand. The posts should include:
 A creative, minimalist design with a focus on typography. The text 'Social Media Post Design' should be in a bold, stylized font, with an image of a person engaging with the environment in a natural setting. The background should have a monochrome, muted tone to keep the focus on the text and the overall message.
-Post 2: Fashion Sale Announcement:
 
 A stylish and chic design promoting a fashion sale. Use a sophisticated layout with images of models in fashionable attire. Include a prominent call-to-action 'This Week Fashion Sale' and a discount percentage 'Up to 80% Off.' Ensure that the brand's contact details are visible, with social media icons neatly arranged at the bottom.
 Post 3: New Fashion Collection Launch:
